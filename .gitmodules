@@ -13,6 +13,6 @@
 [submodule "VoyaGo-Ride-Service"]
 	path = VoyaGo-Ride-Service
 	url = https://github.com/rezinsaleem/VoyaGo-Ride-Service.git
-[submodule "VoyaGo-ApiGateway"]
+[submodule "VoyaGo-Chat-Service"]
 	path = VoyaGo-Chat-Service
 	url = https://github.com/rezinsaleem/VoyaGo-Chat-Service.git
