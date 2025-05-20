@@ -1,0 +1,18 @@
+[submodule "VoyaGo-Client"]
+	path = VoyaGo-Client
+	url = https://github.com/rezinsaleem/VoyaGo-Client.git
+[submodule "VoyaGo-ApiGateway"]
+	path = VoyaGo-ApiGateway
+	url = https://github.com/rezinsaleem/VoyaGo-ApiGateway.git
+[submodule "VoyaGo-User-Service"]
+	path = VoyaGo-User-Service
+	url = https://github.com/rezinsaleem/VoyaGo-User-Service.git
+[submodule "VoyaGo-Auth-Service"]
+	path = VoyaGo-Auth-Service
+	url = https://github.com/rezinsaleem/VoyaGo-Auth-Service.git
+[submodule "VoyaGo-Ride-Service"]
+	path = VoyaGo-Ride-Service
+	url = https://github.com/rezinsaleem/VoyaGo-Ride-Service.git
+[submodule "VoyaGo-ApiGateway"]
+	path = VoyaGo-Chat-Service
+	url = https://github.com/rezinsaleem/VoyaGo-Chat-Service.git
